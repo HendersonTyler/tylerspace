@@ -1,0 +1,64 @@
+nav a {
+    color: white;
+}
+
+nav a:hover {
+    color: black;
+}
+
+h1 {
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+h3 {
+    color: #da7227;
+    font-weight: bold;
+    padding-left: 5px;
+    font-size: 1rem;
+}
+
+.header {
+    background: #003399;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.widthpercent {
+    max-width: 100%;
+}
+
+.tborder {
+    border: 1px;
+}
+
+.bgyellow {
+    background: #ffcc95;
+
+}
+
+
+
+
+
+.table-primary {
+    background: #619ad2;
+}
+
+@media (min-width: 1200px) {
+    .navbar {
+        max-width: 1200px;
+    }
+}
+
+@media (max-width: 768px) {
+    /* h1 {
+        font-size: 10pt;
+    } */
+}
