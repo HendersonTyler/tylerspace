@@ -43,10 +43,6 @@ ul li {
 
 }
 
-
-
-
-
 .table-primary {
     background: #619ad2;
 }
@@ -61,4 +57,13 @@ ul li {
     /* h1 {
         font-size: 10pt;
     } */
+}
+
+.table-info td,
+.table-info th {
+    border-color: white;
+}
+
+audio {
+    width: 250px;
 }
