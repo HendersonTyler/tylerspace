@@ -3,7 +3,7 @@ nav a {
 }
 
 nav a:hover {
-    color: black;
+    color: #ffcc95;
 }
 
 h1 {
@@ -19,7 +19,7 @@ h3 {
 }
 
 .header {
-    background: #003399;
+    background: #00349a;
 }
 
 .container-fluid {
@@ -66,4 +66,5 @@ ul li {
 
 audio {
     width: 250px;
+    outline: none;
 }
