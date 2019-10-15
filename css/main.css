@@ -18,7 +18,8 @@ h3 {
     font-size: 1rem;
 }
 
-.header {
+.header,
+.footer {
     background: #00349a;
 }
 
@@ -28,6 +29,7 @@ h3 {
 
 ul li {
     list-style-type: none;
+    padding-right: 1em;
 }
 
 .widthpercent {
@@ -67,4 +69,8 @@ ul li {
 audio {
     width: 250px;
     outline: none;
+}
+
+.mr-auto {
+    flex-direction: row;
 }
