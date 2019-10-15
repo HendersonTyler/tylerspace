@@ -1,6 +1,6 @@
 # tylerspace
 
 My portfolio website in early myspace style using Bootstrap. 
-```
-tylerspace.me
-```
+
+[tylerspace](https://tylerspace.me)
+
